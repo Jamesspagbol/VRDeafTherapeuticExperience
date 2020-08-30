@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 736a60594c8242d458266197fd5b93de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TreePrefab: {fileID: 5414113234453603056, guid: 07576821e9feb5e47944927a485e9000,
+      type: 3}
+  - ParkFencePrefab: {fileID: 7080821386471916111, guid: a549dc70bd7ac7049ae1b4067a7b9ebd,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
