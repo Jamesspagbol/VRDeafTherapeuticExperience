@@ -22,3 +22,7 @@ The multitude of soft colours such as the red and white rug that is the experien
 and the light greens of the ground and orange or blue of the sky are all visual cues to distract the user from their impaired sense of hearing.
 Also, the addition of autonomous movement can reduce the amount of focus required by a user’s auditory senses through flooding their visual senses.
 Ultimately acting as a distraction from one sense and steering focus towards another.
+
+IMPORTANT:
+Unity Asset store terms and conditions must be applied with when using all Unity Asset store assets <https://unity3d.com/legal/as_terms>.
+All developers working on this project must fully understand their actions when working with external assets.
