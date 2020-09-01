@@ -1,0 +1,6 @@
+The overall aim of this document is to help with the integration of SteamVR into the project.
+First read the SteamVR quick guide documented on SteamVR <https://valvesoftware.github.io/steamvr_unity_plugin/>.
+Next, rean and understand the processes documented in the UnityVR manual <https://docs.unity3d.com/Manual/VROverview.html>.
+This should cover items such as controller and headset integration, rendering and texturing optimizations, other scripting and asset optimisations.
+
+This document needs to be updated as functionality is added:
